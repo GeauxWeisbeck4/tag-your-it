@@ -1,4 +1,6 @@
-# [TAG YOUR IT!](https://github.com/GeauxWeisbeck4/tag-your-it)![image](https://user-images.githubusercontent.com/87398426/185811631-238b7636-567d-4e9b-a448-e5e025035fe3.png)
+# [TAG YOUR IT!](https://github.com/GeauxWeisbeck4/tag-your-it)
+
+# ![image](https://user-images.githubusercontent.com/87398426/185811631-238b7636-567d-4e9b-a448-e5e025035fe3.png)
 
 
 Tagging the comment section of other developer's websites and asking that they return the favor.I want to see if we can create the largest game of tag ever attempted while also helping open up new networks and projects for developers, artists, and entrepreneurs. It is optional of course and you can always remove my comment, but this could be a reeally cool experiment to see how many people we can connect through this repository.
