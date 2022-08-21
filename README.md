@@ -1,4 +1,5 @@
-# [TAG YOUR IT!]()
+# [TAG YOUR IT!](https://github.com/GeauxWeisbeck4/tag-your-it)![image](https://user-images.githubusercontent.com/87398426/185811631-238b7636-567d-4e9b-a448-e5e025035fe3.png)
+
 
 Tagging the comment section of other developer's websites and asking that they return the favor.I want to see if we can create the largest game of tag ever attempted while also helping open up new networks and projects for developers, artists, and entrepreneurs. It is optional of course and you can always remove my comment, but this could be a reeally cool experiment to see how many people we can connect through this repository.
 
@@ -21,10 +22,10 @@ I've completed these projects and have instructions in the repository if you wou
 #PS - Please email me, fill out the issue "say hello" form, check out the community or something - I would love to meet as many people as I possibly can and learn something new from all of y'all!
 -------------------------------------------------|
 
-# To Do Liost 
+# To Do List 
 - [] Initial Commit, fork first repo, and follow all of the dev's who forked off of that project
 - [] Add front end 
-- [] Add DB for stashing users
+- [x] Add DB for stashing users
 - [] Make a Disqus, Deploy to Netlify, Vercel and other accessible buttons to make it easy to participate in the project
 - [] More to come after the first commit....
 
